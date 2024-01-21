@@ -8,5 +8,5 @@
 
 <h2>Connect With Us 🫂</h2>
 <ul>
-    <li>Follow us on <a href="https://twitter.com/utibeabasi6">Twitter</a> 🐤</li>
+    <li>Follow us on <a href="https://twitter.com/utibeumanah_">Twitter</a> 🐤</li>
 </ul>
